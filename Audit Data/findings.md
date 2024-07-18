@@ -72,7 +72,7 @@ Shreyash Naik makes all effort to find as many vulnerabilities in the code in th
 
 **The findings described in this document correspond the following commit hash:**
 ```
-22bbbb2c47f3f2b78c1b134590baf41383fd354f
+05dd0b842d0b8aac4fbc991c0e3e0396ed1454e7
 ```
 
 ## Scope 
